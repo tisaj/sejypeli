@@ -7,10 +7,10 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\kansalaisopisto\Documents\Visual Studio 2010\Projects\tisaj\Pong\Pong\PongContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\kansalaisopisto\Documents\Visual Studio 2010\Projects\tisaj\Pong\Pong\Pong\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\kansalaisopisto\Documents\Visual Studio 2010\Projects\tisaj\Pong\Pong\PongContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\kansalaisopisto\Documents\Visual Studio 2010\Projects\tisaj\Pong\Pong\Pong\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\kansalaisopisto\Documents\Visual Studio 2010\Projects\tisaj\trunk\Pong\Pong\PongContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\kansalaisopisto\Documents\Visual Studio 2010\Projects\tisaj\trunk\Pong\Pong\Pong\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\kansalaisopisto\Documents\Visual Studio 2010\Projects\tisaj\trunk\Pong\Pong\PongContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\kansalaisopisto\Documents\Visual Studio 2010\Projects\tisaj\trunk\Pong\Pong\Pong\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
